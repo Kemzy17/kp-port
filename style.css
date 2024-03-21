@@ -6,7 +6,8 @@
 
 body {
   font-family: "Dosis", sans-serif;
-  background: url(bg.jpg);
+  /* background: url(bg.jpg); */
+  background-color: #111;
   background-size: 120px;
   background-position: top center;
   /* background-attachment: fixed; */
